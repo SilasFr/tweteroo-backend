@@ -1,0 +1,28 @@
+{
+  "name": "tweteroo-back-end",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SilasFr/tweteroo-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SilasFr/tweteroo-backend/issues"
+  },
+  "homepage": "https://github.com/SilasFr/tweteroo-backend#readme",
+  "description": ""
+}
